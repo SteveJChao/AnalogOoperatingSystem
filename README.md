@@ -19,4 +19,4 @@
 
 * 交互式Termianl
 
-    <img src="https://github.com/SteveJChao/AnalogOoperatingSystem/blob/master/ScreenShot/termianl.png" width="100%" height="100%" />
+    <img src="https://github.com/SteveJChao/AnalogOoperatingSystem/blob/master/ScreenShot/terminal.png" width="100%" height="100%" />
